@@ -8,16 +8,18 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/highschool-coder/python-modules** and import
+* search for **highschool-coder/python-modules** and import
 
-## Edit this project
+## Edit this project in MakeCode
 
 To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/highschool-coder/python-modules** and click import
-
+## to edit this in github
+* make a [fork](https://github.com/highschool-coder/python-modules/fork)
+* edit or add file & commit changes
 #### Metadata (used for search, rendering)
 
 * for PXT/microbit

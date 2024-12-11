@@ -1,6 +1,6 @@
 name: NodeJS with Gulp
 
-on:
+on: workflow_dispatch
   push:
     branches: [ "default" ]
   pull_request:

@@ -1,9 +1,9 @@
 
 > Open this page at [https://highschool-coder.github.io/python-modules/](https://highschool-coder.github.io/python-modules/)
 
-## Use as Extension
+# this repo is very beta and **subject to change**
 
-This repository can be added as an **extension** in MakeCode.
+The  can be added as an **extension** in Any editor
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
